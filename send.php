@@ -1,9 +1,9 @@
 <?php
-$to = "recipient@example.com";
-$subject = "Test Email";
-$message = "This is a test email.";
-$sender_email = "sender@example.com";
-$sender_name = "Your Name";
+$to = "rathoremohi17@gmail.com";
+$subject = "read this message";
+$message = "I Love You Mohi";
+$sender_email = "shivangishweta16@gmail.com";
+$sender_name = "Shivangi";
 
 $headers = "From: $sender_name <$sender_email>\r\n";
 $headers .= "Reply-To: $sender_name <$sender_email>\r\n";
